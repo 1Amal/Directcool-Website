@@ -1,0 +1,44 @@
+/* Enter CSS commands here to override default styling of Bootstrap theme */
+/* Start CSS for Navbar */
+
+.navbar .nav > li > a {
+    color:  black;
+	}
+
+.dcnavbar {
+	background-image:none;
+	background-color:#0B6AC0;
+	font-size:15px;
+	}
+/* End CSS for Navbar */
+
+/* Start of CSS for body */
+.body{
+	background-color: #fff;
+	
+}
+
+/* End of CSS for body */
+
+/* Start CSS for Jumbotron */
+.dcjumbotron{
+}
+/* End CSS for Jumbotron */
+
+
+/* Start of CSS for Panel */
+.dcpanel {
+	background-image:none;
+	background-color:#fff;;
+	color:black;
+}
+
+/* End of CSS for Panel */
+
+/* Start CSS for footer */
+.dcfooter{
+	background-image:none;
+	background-color:#ffffff;
+	color:black;
+}
+/* End CSS for footer */
